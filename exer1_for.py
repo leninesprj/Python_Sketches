@@ -39,3 +39,21 @@ for digit in code:
         print("x", end="")
         continue
     print(digit, end="")
+
+print(#~~#)
+
+# 5 What is the output of the following code?
+n = 3
+while n > 0:
+    print(n + 1)
+    n -= 1
+else :
+    print(n)
+    
+# 6 what is output of the following code?
+n = range(4)
+for num in n:
+    print(num - 1) 
+else:
+    print(num)
+
